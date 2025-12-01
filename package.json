@@ -1,0 +1,16 @@
+{
+  "name": "aula_10-node",
+  "version": "1.0.0",
+  "description": "primeiro projeto ultilizando o node",
+  "license": "ISC",
+  "author": "Hellen de Sa",
+  "type": "module",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
